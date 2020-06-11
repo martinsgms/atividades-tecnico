@@ -1,0 +1,12 @@
+C:\Users\LAB-A\Desktop\Login\Login\bin\Debug\Login.exe
+C:\Users\LAB-A\Desktop\Login\Login\bin\Debug\Login.pdb
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\Login.Form2.resources
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\Login.exe
+C:\Users\LAB-A\Desktop\Login\Login\obj\x86\Debug\Login.pdb
+G:\C# & PHP\3 - Março\C# Login Estático 21-03\Login\obj\x86\Debug\Login.exe
+G:\C# & PHP\3 - Março\C# Login Estático 21-03\Login\obj\x86\Debug\Login.pdb

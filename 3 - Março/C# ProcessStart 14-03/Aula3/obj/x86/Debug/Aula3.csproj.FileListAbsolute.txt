@@ -1,0 +1,18 @@
+C:\Users\LAB-A\Desktop\Aula3\Aula3\bin\Debug\Aula3.exe
+C:\Users\LAB-A\Desktop\Aula3\Aula3\bin\Debug\Aula3.pdb
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\Aula3.Form1.resources
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\Aula3.Properties.Resources.resources
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\Aula3.exe
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\Aula3.pdb
+C:\Users\LAB-A\Desktop\Aula3\Aula3\obj\x86\Debug\Aula3.Form2.resources
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\obj\x86\Debug\Aula3.exe
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\obj\x86\Debug\Aula3.pdb
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\obj\x86\Debug\Aula3.Form1.resources
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\obj\x86\Debug\Aula3.Form2.resources
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\obj\x86\Debug\Aula3.Properties.Resources.resources
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\obj\x86\Debug\Aula3.csproj.GenerateResource.Cache
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\bin\Debug\Aula3.exe
+G:\C# & PHP\3 - Março\C# ProcessStart 14-03\Aula3\bin\Debug\Aula3.pdb

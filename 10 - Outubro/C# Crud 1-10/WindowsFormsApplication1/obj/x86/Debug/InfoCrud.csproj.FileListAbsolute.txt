@@ -1,0 +1,20 @@
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\InfoCrud.csproj.GenerateResource.Cache
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB-A\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\InfoCrud.csprojResolveAssemblyReference.cache
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\InfoCrud.csproj.GenerateResource.Cache
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\LAB-A\Desktop\Crud C# 25-9\WindowsFormsApplication1\obj\x86\Debug\RdlCompile.compiled

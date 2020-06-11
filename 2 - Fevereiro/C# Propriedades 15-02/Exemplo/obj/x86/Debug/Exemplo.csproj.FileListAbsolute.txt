@@ -1,0 +1,12 @@
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\Exemplo.Form1.resources
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\Exemplo.Properties.Resources.resources
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\Exemplo.exe
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\Exemplo.pdb
+C:\Users\LAB-A\Desktop\Exemplo\Exemplo\obj\x86\Debug\Exemplo.Form2.resources
+G:\C# & PHP\2 - Fevereiro\C# Propriedades 15-02\Exemplo\obj\x86\Debug\Exemplo.exe
+G:\C# & PHP\2 - Fevereiro\C# Propriedades 15-02\Exemplo\obj\x86\Debug\Exemplo.pdb
